@@ -81,6 +81,10 @@ Each generated card contains:
 - Email address
 - Phone number
 
+<p align="center">
+  <img src="screenshot/output.png" width="650" style="border:2px solid black;" />
+</p>
+
 ## License
 
 MIT License
