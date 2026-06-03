@@ -32,6 +32,14 @@ NetCard lets you:
 - Printable A4 layout
 - Fully client side, no backend required
 
+## Live Demo
+
+Try it here:
+
+https://thehassanbukhari.github.io/NetCard/
+
+Hosted using GitHub Pages.
+
 ## Tech Stack
 
 - HTML
