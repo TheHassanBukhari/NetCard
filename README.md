@@ -1,36 +1,40 @@
 # NetCard
 
-NetCard is a simple web application that generates customizable networking cards with QR codes for sharing social profiles and contact information instantly.
+NetCard is a lightweight web application that generates professional networking cards with QR codes for instantly sharing social profiles and contact information.
 
 ## Why I built this
 
-I first noticed this idea during a hackathon where people were using physical networking cards. Most of them were manually designed, often using tools like Word or Canva, which took time and felt repetitive.
+I first noticed this idea during a hackathon where people were using physical networking cards. Most of them were manually designed using tools like Word or Canva, which took time and felt repetitive.
 
-Each card usually had things like GitHub on one side and LinkedIn on the other. The idea was simple: scan the QR code and directly reach someone's profile without searching or exchanging phone numbers.
+Each card usually contained a social profile such as GitHub or LinkedIn. The concept was simple: scan a QR code and instantly access someone's profile without searching or exchanging contact details manually.
 
-I liked the concept and decided to create something better and faster for myself.
+I liked the idea and decided to create a faster and more convenient solution.
 
-When I tried making such cards in MS Word, it became messy and time consuming. Later, I had to create one for a friend as well, and that made it clear that this process should be automated.
+When I tried making similar cards in MS Word, the process became messy and time consuming. Later, I needed to create cards for a friend as well, which made it clear that this workflow should be automated.
 
 So I built NetCard.
 
 ## What it does
 
 NetCard lets you:
+
 - Generate networking cards with QR codes
-- Add two different social platforms per card
-- Use custom platforms as well
-- Customize QR code color for a more personal touch
-- Instantly preview and print cards
+- Create two cards for different social platforms
+- Use predefined or custom platforms
+- Customize QR code colors
+- Preview cards instantly
+- Print or save cards as PDF
 
 ## Features
 
-- QR code generation in browser
-- Gradient styled QR effect
+- Client side QR code generation
+- Custom QR code colors
 - Support for GitHub, LinkedIn, Twitter, Instagram, YouTube, and custom links
 - Dual card generation per profile
-- Printable A4 layout
-- Fully client side, no backend required
+- Print ready A4 layout
+- One click PDF export through browser printing
+- Fully client side with no backend required
+- Single HTML file deployment
 
 ## Live Demo
 
@@ -40,28 +44,42 @@ https://thehassanbukhari.github.io/NetCard/
 
 Hosted using GitHub Pages.
 
+## Screenshots
+
+### Generated Networking Cards
+
+Add a screenshot of the generated cards here.
+
+### Print Ready Layout
+
+Add a screenshot of the print view here.
+
 ## Tech Stack
 
 - HTML
 - CSS
 - JavaScript
-- QRCode.js library
+- QRCode.js
 
 ## How to use
 
-1. Enter your personal details
-2. Add your social profile links
-3. Generate QR codes for each platform
-4. Customize colors if needed
-5. Preview and print your networking cards
+1. Enter your personal information
+2. Add links for your social profiles
+3. Choose QR code colors
+4. Generate your networking cards
+5. Preview the result
+6. Print or save as PDF
 
 ## Output
 
-Each card contains:
-- Name and academic details
-- QR code linking to your profile
+Each generated card contains:
+
+- Name
+- Academic or professional details
+- QR code linked to a profile
 - Platform label
-- Contact information (email/phone)
+- Email address
+- Phone number
 
 ## License
 
