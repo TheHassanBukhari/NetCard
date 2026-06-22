@@ -44,15 +44,9 @@ https://thehassanbukhari.github.io/NetCard/
 
 Hosted using GitHub Pages.
 
-## Screenshots
+## Generated Networking Cards
 
-### Generated Networking Cards
-
-Add a screenshot of the generated cards here.
-
-### Print Ready Layout
-
-Add a screenshot of the print view here.
+![Generated networking cards](screenshots/output.png)
 
 ## Tech Stack
 
