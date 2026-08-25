@@ -1,7 +1,8 @@
 # NetCard
 NetCard is a lightweight web application that generates professional networking cards with QR codes for instantly sharing social profiles and contact information.
 
-**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/)
+**Portfolio:** [hassanbukhari.is-a.dev](https://hassanbukhari.is-a.dev/) <br>
+**LinkedIn:** [Syed Hassan Ali Bukhari](https://www.linkedin.com/in/syedhassanalibukhari/)
 
 ## Why I built this
 I first noticed this idea during a hackathon where people were using physical networking cards. Most of them were manually designed using tools like Word or Canva, which took time and felt repetitive.
@@ -26,12 +27,13 @@ NetCard lets you:
 - One click PDF export through browser printing
 - Fully client side with no backend required
 - Single HTML file deployment
+
 ## Live Demo
 Try it here:
 https://thehassanbukhari.github.io/NetCard/
 Hosted using GitHub Pages.
-## Generated Networking Cards
-![Generated networking cards](screenshots/output.png)
+
+
 ## Tech Stack
 - HTML
 - CSS
@@ -60,4 +62,4 @@ Each generated card contains:
 [Syed Hassan Ali Bukhari](https://hassanbukhari.is-a.dev/)
 
 ## License
-MIT License
+This project is licensed under the [MIT License](./LICENSE).
