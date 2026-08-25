@@ -55,7 +55,9 @@ Each generated card contains:
 <p align="center">
   <img src="screenshot/output.png" width="650" style="border:2px solid black;" />
 </p>
+
 ## Author
 [Syed Hassan Ali Bukhari](https://hassanbukhari.is-a.dev/)
+
 ## License
 MIT License
